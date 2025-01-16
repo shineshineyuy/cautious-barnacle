@@ -1,0 +1,7 @@
+{
+  "webengine_version": "5.15.9",
+  "channel_targets": "defaults",
+  "target_platform": "win-64",
+  "cxx_compiler": "vs2019",
+  "c_compiler": "vs2019"
+}

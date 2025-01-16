@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64",
+  "build": "h5bd16bc_7",
+  "build_number": 7,
+  "constrains": [
+    "qt >=5.15.2,<6"
+  ],
+  "depends": [
+    "qt-main >=5.15,<6.0a0",
+    "qt-main >=5.15.2,<5.16.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.27.29016,<15.0a0"
+  ],
+  "license": "LGPL-3.0-only",
+  "license_family": "LGPL",
+  "name": "qt-webengine",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1691732580753,
+  "version": "5.15.9"
+}
