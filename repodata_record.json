@@ -1,0 +1,24 @@
+{
+  "build": "h5bd16bc_7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "qt >=5.15.2,<6"
+  ],
+  "depends": [
+    "qt-main >=5.15,<6.0a0",
+    "qt-main >=5.15.2,<5.16.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.27.29016,<15.0a0"
+  ],
+  "fn": "qt-webengine-5.15.9-h5bd16bc_7.conda",
+  "license": "LGPL-3.0-only",
+  "md5": "784173ddbaa794200e7fcccef9225a70",
+  "name": "qt-webengine",
+  "sha256": "ab2ca405dbc8d5f8cdf9b15470c91fb997829c1a3cc51473bc5d8254b54b7e52",
+  "size": 60963283,
+  "subdir": "win-64",
+  "timestamp": 1691732580000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/qt-webengine-5.15.9-h5bd16bc_7.conda",
+  "version": "5.15.9"
+}
